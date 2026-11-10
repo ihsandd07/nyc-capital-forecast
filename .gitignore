@@ -4,3 +4,4 @@ __pycache__/
 .venv/
 # The raw NYC Open Data files are large and change over time; see data/README.md for how to download them.
 data/raw/*.csv
+.DS_Store
